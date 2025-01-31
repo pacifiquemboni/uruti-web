@@ -15,7 +15,7 @@ const NavBar = () => {
   };
 
   return (
-    <nav className="bg-black text-white flex items-center p-6 px-10 md:px-12 justify-between border-b-primary border-b-[3px] border-opacity-15 fixed w-full z-50 top-0">
+    <nav className="bg-black text-white flex items-center p-6 px-10 md:px-12 justify-between border-b-[#00AAA9] border-b-[3px] border-opacity-15 fixed w-full z-50 top-0">
       <div>
         <a href="/">
           <img
